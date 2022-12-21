@@ -1,2 +1,1 @@
-# harsh.github.io
-This is the free website trial and upload of project using the website
+A way to host the projects for resume and others to see it easily.
